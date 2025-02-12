@@ -13,8 +13,8 @@ Make sure you have Ruby and Rails installed on your computer.
 Clone the repo and enter the project folder
 
 ```
-git clone https://github.com/anghelion/ruby-on-rails-realworld-example-app
-cd ruby-on-rails-realworld-example-app
+git clone https://github.com/anghelion/ruby-on-rails-app
+cd ruby-on-rails-app
 ```
 
 Install gems
